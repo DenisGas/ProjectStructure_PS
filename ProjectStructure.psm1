@@ -155,7 +155,7 @@ function Show-ProjectStructure {
         [string]$Path,
         
         [Parameter(Mandatory = $false)]
-        [int]$Depth = -1,
+        [int]$Depth = 2,
         
         [Parameter(Mandatory = $false)]
         [string]$ConfigPath = $script:configPath,
