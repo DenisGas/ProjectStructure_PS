@@ -1,5 +1,11 @@
 # ProjectStructure_PS
 
+## Requirements
+
+![PowerShell](https://img.shields.io/badge/PowerShell-7%2B-blue?logo=powershell)
+
+- PowerShell >= 7.0
+
 ## Overview
 ProjectStructure is a PowerShell module for visualizing project structures with support for color formatting, icons, and a plugin system. The module allows you to visually display directory and file structures considering their types and purposes.
 
