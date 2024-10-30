@@ -2,8 +2,9 @@
     # Plugins that will be enabled by default
     # If the array is empty or missing, all available plugins are used
     EnabledPlugins = @(
-        # "web",
-        # "python"
+        "web",
+        "media",
+        "documents"
     )
 
     Defaults       = @{
