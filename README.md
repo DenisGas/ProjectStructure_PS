@@ -21,7 +21,7 @@ ProjectStructure is a PowerShell module for visualizing project structures with 
 git clone https://github.com/DenisGas/ProjectStructure_PS.git
 
 # Install module for current sesion
-import-Module .\ProjectStructure\ProjectStructure.psm1
+import-Module .\ProjectStructure_PS\ProjectStructure.psm1
 ```
 
 ## Main Functions
